@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap');
+
+*{
+    font-family: 'Inter', sans-serif;
+}
+
+/* custom */
+
+a.nav-link:active {
+    color: hsl(5, 85%, 63%);
+}
+
+.img-custom{
+    width: 100px;
+    height: 130px;
+}
+
+.h1-custom{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+}
+
+.p-custom{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+}
+
+.btn-custom{
+    background-color: hsl(5, 85%, 63%);
+    color: #fff;
+    border: none;
+    padding: 8px 15px;
+    letter-spacing: 3px;
+    font-size: 18px;
+    width: 180px;
+}
+.btn-custom:hover{
+    background-color: hsl(5, 86%, 61%);
+}
+
+/* Side News */
+
+.h2-custom{
+    font-weight: 700;
+    color: hsl(35, 77%, 62%);
+    font-size: 38px;
+}
+
+.h5-custom{
+    font-weight: 700;
+}
+
+.side-p{
+    color: rgb(202, 202, 202);
+    font-size: 17px;
+}
+
+.bg-side-custom{
+    background-color: hsl(240, 100%, 5%);
+}
+
+.border-bottom-custom{
+    border-bottom: 1px solid rgba(204, 204, 204, 0.438);
+}
+
+/* ultima section */
+
+.number-h2{
+    color: hsl(236, 13%, 42%);
+    font-weight: 700;
+}
+
+.p-last-section{
+    color: hsl(236, 13%, 42%);
+}
